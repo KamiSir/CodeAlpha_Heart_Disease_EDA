@@ -1,5 +1,3 @@
-# CodeAlpha_Internship-Tasks-Data-Analytics
-Exploratory Data Analysis &amp; Visualization on UCI Heart Disease dataset - CodeAlpha Internship
 # CodeAlpha_Heart_Disease_EDA
 
 ## 📊 Data Analytics Internship — CodeAlpha (Task 2 & 3)
